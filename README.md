@@ -8,3 +8,10 @@
 ```
 npm install
 ```
+
+<h4>Create dotenv file containing the secret key for session and the port</h4>
+
+## Run
+```
+npm run dev
+```
